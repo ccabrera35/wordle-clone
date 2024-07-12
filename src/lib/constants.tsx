@@ -1,4 +1,4 @@
-export const targetWord = "Earth";
+export const targetWord = "Flint";
 export let guess = "";
 
 export const validLetters = (name: string) => {
